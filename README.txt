@@ -1,5 +1,6 @@
 # TO USE THE PROGRAM #
 
+- add folders "DICOMs", "DICOMsjpg", and "regions"
 - insert ".dcm" files into "DICOMs" folder
 - if the images contain a region of interest, set "RegionOI" to "True" on line 7, otherwise, set to "False"
 - run the script
